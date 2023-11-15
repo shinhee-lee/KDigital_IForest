@@ -18,6 +18,7 @@
 
 ## 📌 주요 기능
 #### final_code
+- PCA, SMOTE 등을 이용하여 데이터를 모델에 적절한 입력값으로 만들어 줍니다.
 - 이상 탐지를 위한 Isolation Forest, Logistic Regression, Decison Tree, LGBM 등 여러 모델을 비교하여 최적의 모델을 찾아내는 코드입니다.
 #### shap
 - Shapley Value를 이용하여 방대한 데이터 중 이상 탐지 시 효율적인 값을 선택하도록 하는 코드입니다.
